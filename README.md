@@ -18,19 +18,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.credly.com/badges/7f5b1730-2a9c-4875-9fa0-7ee875ea286a/public_url">
-    <img src="./aws-badge.png" width="180"/>
+    <img src="./aws-badge.png" width="170" alt="AWS Certified Cloud Practitioner"/>
   </a>
 </p>
 
 <p align="center">
-  <b>AWS Certified Cloud Practitioner</b>
+  <b>AWS Certified Cloud Practitioner</b><br>
+  ☁️ Foundational Certification by AWS
 </p>
-
----
-
-## 🚀 Tecnologías e Intereses
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,react,firebase,docker,wordpress,js,html,css,python,java" />
-</p>
-
