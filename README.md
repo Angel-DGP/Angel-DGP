@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Certifications
+
+[![AWS Certified](https://images.credly.com/size/340x340/images/...png)](TU_LINK_DE_CREDLY)
