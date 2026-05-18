@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ## 🏆 Certificaciones
 
 <a href="https://www.credly.com/badges/7f5b1730-2a9c-4875-9fa0-7ee875ea286a/public_url">
-  <img src="https://images.credly.com/size/340x340/images/8d4f5e95-5f6c-4a4f-a3e9-7c4f0d0f9b2f/image.png" width="150"/>
+  <img src="./aws-badge.png" width="170"/>
 </a>
